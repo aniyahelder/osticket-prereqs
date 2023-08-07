@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
  <p>
-<img src="https://i.imgur.com/nIsq2Qb.png"/>
+<img src="https://i.imgur.com/tocKRHc.png"/>
 </p>
 <p>
 First we are going want to RDP into our VM (if you are going to use one). Just find the public IP of the VM and connect with RDP.
