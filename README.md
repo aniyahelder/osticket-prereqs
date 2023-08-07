@@ -296,7 +296,7 @@ Going back into the osTicket installer in the browser, put in the username and p
 <br />
 
 <p>
-<img src="https://i.imgur.com/hoVuqRf.jpg"/>
+<img src="https://i.imgur.com/F1VoOko.png"/>
 <img src="https://i.imgur.com/I8ZApOx.png"/>
 </p>
 <p>
