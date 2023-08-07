@@ -297,7 +297,7 @@ Going back into the osTicket installer in the browser, put in the username and p
 
 <p>
 <img src="https://i.imgur.com/F1VoOko.png"/>
-<img src="https://i.imgur.com/I8ZApOx.png"/>
+<img src="https://i.imgur.com/SViqvsQ.png"/>
 </p>
 <p>
 Now that it has installed, open up both of these urls in your VM's browser
